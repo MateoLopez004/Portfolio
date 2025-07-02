@@ -19,7 +19,7 @@ Api De Manejo de Inventario/Compras: API REST para manejo de Inventarios y compr
 App De Calorias con React (En un futuro sera añadido): Contador de calorías diario con visualización de dieta usando React Native y Node.js
 Analizador de Logs en Python (En un futuro sera añadido): Script para detectar accesos sospechosos en logs de Linux.
 Escaneo de Puertos Local (En un futuro sera añadido): Un script de Escaner de puertos basico en red local usando Python.
-
+.
 
 📫 Contacto
 📧 Email: matlopsir@gmail.com
